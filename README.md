@@ -10,7 +10,7 @@ To run the app on your device.
   
   2.Extract the downloaded zip file.
   
-  3.Open your terminal/cmdline and make sure you on the path that contains your downloaded files. #both (either you cloned or       downloaded).
+  3.Open your terminal/cmdline and make sure you on the path that contains your downloaded files. #both (either you cloned the repo or downloaded).
   
   4.Run The following Commands.
   
@@ -35,7 +35,7 @@ To run the app on your device.
         
         
         
- #Now everything should be working!!
+  Now everything should be working!!
  
- //If any issues you can reach out to me and I will try as much as possible to solve the issues.
+ If any issues you can reach out to me and I will try as much as possible to solve the issues.
   
